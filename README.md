@@ -1,2 +1,5 @@
-# kockonaut_public-0.5.1
- 
+# Kockonaut
+
+pip install -r requirements.txt
+
+that's all. >)

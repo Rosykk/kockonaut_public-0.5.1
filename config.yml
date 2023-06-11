@@ -1,0 +1,13 @@
+# use ENV['DISCORD_TOKEN'] in future
+token: YOUR_TOKEN_HERE
+
+slash_guilds:
+  - 123456789012345678
+
+report_roles:
+  - 123456789012345678
+
+report_channel: 123456789012345678
+system_channel: 123456789012345678
+welcome_channel: 123456789012345678
+introduce_channel: 123456789012345678

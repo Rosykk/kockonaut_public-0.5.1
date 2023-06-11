@@ -1,0 +1,8 @@
+git+https://github.com/DisnakeDev/disnake@v2.5.1
+
+PyYAML==5.4.1
+Pyrebase4==4.5.0
+PySychonaut==0.6.0
+beautifulsoup4
+lxml
+requests

@@ -1,5 +1,4 @@
 # Kockonaut
 
 pip install -r requirements.txt
-
-that's all. >)
+some cogs are incomplete and some config files are empty due to privacy reasons
